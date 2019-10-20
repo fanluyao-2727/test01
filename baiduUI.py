@@ -36,6 +36,6 @@ sleep(2)
 #索引：以文本形式
 select.select_by_visible_text("每页显示50条")
 sleep(2)
-
+sleep(3)
 #关闭
 driver.quit()
